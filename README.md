@@ -7,6 +7,8 @@
       <img  src="https://img.shields.io/badge/ReduxToolkit-1.9.3-%23764abc" alt="Redux Tookit Version">
       <img  src="https://img.shields.io/badge/TypeScript-5.0.4-%233178c6" alt="Typescript Version">
       <img  src="https://img.shields.io/badge/ExpressJS-4.16.1-%23eee?style=GG&color=%23eee" alt="ExpressJS Version">
+      <img  src="https://img.shields.io/badge/Prisma%20ORM-4.15.0-%235a67d7" alt="Prisma Version">
+      <img  src="https://img.shields.io/badge/Antd-5.1.5-%230d6fff" alt="Antd Version">
 </p>
 
 
