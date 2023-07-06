@@ -1,6 +1,6 @@
 # ReactEmployees
 <p align="center">
-      <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" >
+      <img width="40px" height="40px" src="https://i.ibb.co/BT4CXqV/vector60-7909-01.jpg" >
 </p>
 <h1 style="font-size:20px;" align="center">React Pizza</h1>
 <p align="center">
