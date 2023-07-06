@@ -9,4 +9,8 @@
       <img  src="https://img.shields.io/badge/TypeScript-5.0.4-%233178c6" alt="Typescript Version">
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
-![Видео без названия — сделано в Clipchamp (1)](https://github.com/ImForeverYoung/ReactEmployees/assets/54442509/46f6335c-d778-469c-9634-c09733cd22ec)
+
+
+
+https://github.com/ImForeverYoung/ReactEmployees/assets/54442509/0883403a-ac99-4558-9558-b51616eefd9b
+
