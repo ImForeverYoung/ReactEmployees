@@ -15,17 +15,18 @@
 https://github.com/ImForeverYoung/ReactEmployees/assets/54442509/e7dd5b22-f444-4b43-a4a7-418fcaf23a2d
 
 ## About
-This project is an online store for ordering pizza. Written entirely by hand on the React framework in Typescript.
+This project is a fullstack app with authorization system. The application allows you to create employees. An employee can only be edited or deleted by its creator (user).
 
 ## Used Technologies
 
 - ReactJS
 - Redux Tookit
 - Typescript
-- SASS
-- Lodash
-- Axios
-- React Skeleton
+- RTK Query
+- Antd
+- Prisma client
+- Jsonwebtoken
+  
 
 
 
