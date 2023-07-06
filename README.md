@@ -1,4 +1,4 @@
-# ReactEmployees
+# React Employees
 <p align="center">
       <img width="100px" height="100px" src="https://i.ibb.co/BT4CXqV/vector60-7909-01.jpg" >
 </p>
